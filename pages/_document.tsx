@@ -6,7 +6,10 @@ export default function Document() {
       <Head>
         <title>Safarim - Explore Uzbekistan with Local Tours</title>
         <link rel="icon" type="image/png" sizes="10x16" href="/logo.svg" />
-
+        <meta
+          name="google-site-verification"
+          content="AP028owqnJMsvR3OPqOwALfBAtyMYelbHOOAz4IJJXg"
+        />
         {/* Meta Description & Keywords */}
         <meta
           name="description"
